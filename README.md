@@ -5,6 +5,8 @@ a guide of pandas for sql user
 
 用mysql的sakila作为例子，这个库是mysql的示例数据库，介绍了一些sql和对应功能的pandas用法，
 
-sql 非常精炼 功能强大
-pandas 功能更加强大，在内存速度更快（内存要大）
-jupyter－notebook 交互式的环境 适合探索和迭代
+1. sql 非常精炼 功能强大
+2. pandas 功能更加强大，在内存速度更快（内存要大）
+3. jupyter－notebook 交互式的环境 适合探索和迭代
+
+* 如果.ipynb无法加载 可以看.md文件 *
